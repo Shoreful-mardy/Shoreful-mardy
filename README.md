@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Shoreful Mardy
+#### Web developer
+ I am a Back end developer who is  passionate about making error free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented , and always work with an end goal in mind. most of the time i work with php and laravel but some technologies i enjoy working with include javascript 
+
+Skills: PHP/laravel/Html/CSS/Javascript/Bootstrap
+
+- 🌱 I’m currently learning JavaScript  
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web Development  
 
 
-**Shoreful-mardy/Shoreful-mardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shoreful-mardy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/smbisal.mardy)  
 
